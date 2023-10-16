@@ -1,2 +1,2 @@
-# OCT-Test2
-my first push/pull/request using GIT
+# my-first-repo
+my first repo!
